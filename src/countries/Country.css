@@ -3,5 +3,7 @@
   margin: 20px;
   padding: 20px;
   border-radius: 10px;
-  background-color: rgb(209, 209, 209);
+}
+.country-visited {
+  background-color: rgb(155, 81, 127);
 }
